@@ -55,7 +55,8 @@
         </plugins>
     </build>
 
-     <project>
+</project>
+<project>
 <!------ others lines -->
     <pluginRepositories>
         <pluginRepository>
@@ -64,6 +65,4 @@
             <url>https://repo.spring.io/plugins-release/</url>
         </pluginRepository>
     </pluginRepositories>
-
-
 </project>
